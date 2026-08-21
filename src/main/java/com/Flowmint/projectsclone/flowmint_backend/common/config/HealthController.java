@@ -8,6 +8,6 @@ public class HealthController {
 
     @GetMapping("/api/health")
     public String health() {
-        return "Flowmint backend is running";
+        return "Flowmint backend is running Scuessfuly";
     }
 }
